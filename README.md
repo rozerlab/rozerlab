@@ -2,13 +2,17 @@
 <h3 align="center">Backend & Full-Stack Developer | Python Enthusiast</h3>
 
 <!-- 🐍 Backend Technologies -->
-<p align="center">
+<p align="center" >
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+  
 </p>
+
+
 
 <!-- 🎨 Frontend Technologies -->
 <p align="center">
@@ -17,7 +21,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja-524B4B?style=for-the-badge&logo=jinja&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <!-- 🗄️ Databases -->
@@ -50,11 +53,19 @@
 </p>
 
 
+<!-- README.md -->
+
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with a backend focus. I specialize in building fast, secure, and scalable web applications and Api's using modern frameworks and tools. I love working with REST & APIs, cloud deployments, and architecting efficient database schemas.
+I'm a passionate **Full-Stack Developer** with a strong focus on the backend. I specialize in building **fast**, **secure**, and **scalable** web applications and APIs using modern frameworks and technologies.
+
+I enjoy working on:
+- 🧠 Clean architecture and robust backend systems  
+- 🌐 RESTful APIs  
+- ☁️ Cloud deployments  
+- 🗃️ Efficient and scalable database schemas
 
 ---
 
@@ -62,25 +73,29 @@ I'm a passionate **Full-Stack Developer** with a backend focus. I specialize in 
 
 #### 🚀 Backend
 - **Python**, **Flask**, **FastAPI**
-- **PostgreSQL**, **MySQL**
-- **MongoDB**, **Redis**
+- **PostgreSQL**, **MySQL**, **MongoDB**
 
 #### 🌐 Frontend
-- **React.js (explr.)**
-- **Next.js (explr.)**
+- **React.js** *(exploring)*  
+- **Next.js** *(exploring)*
 
 #### 🛠️ DevOps & Tools
-- Git, GitHub Actions
-- Nginx, Gunicorn, Uvicorn
-- RESTful API design, JWT Auth
+- **Git**, **GitHub Actions**
+- **Nginx**, **Gunicorn**, **Uvicorn**
+- **RESTful API design**, **JWT Authentication**
 
 ---
 
 ### 📫 Connect With Me
-- ✉️ Email: side55net@gmail.com
+
+- ✉️ Email: [side55net@gmail.com](mailto:side55net@gmail.com)
 
 ---
 
-### 🧩quotes
+### 🧩 Favorite Quote
 
->  "Python is an experiment in how much freedom programmers need." — Guido van Rossum
+> *"Python is an experiment in how much freedom programmers need."*  
+> — **Guido van Rossum**
+
+---
+
