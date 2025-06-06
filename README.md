@@ -72,7 +72,7 @@ I enjoy working on:
 ### ⚙️ Tech Stack
 
 #### 🚀 Backend
-- **Python**, **Flask**, **FastAPI**
+- **Python**, **Flask**, **django**
 - **PostgreSQL**, **MySQL**, **MongoDB**
 
 #### 🌐 Frontend
