@@ -75,7 +75,7 @@ I enjoy working on:
 
 #### 🌐 Frontend
 - **React.js** *(exploring)*  
-- **Next.js** *(exploring)*
+- **remix.js** *(will exploring)*
 
 #### 🛠️ DevOps & Tools
 - **Git**, **GitHub Actions**
