@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rozer </h1>
-<h3 align="center">Backend & Full-Stack Developer | Python Enthusiast</h3>
+<h3 align="center">Backend & Full-Stack Developer | JavaScript Enthusiast</h3>
 
 <!-- 🐍 Backend Technologies -->
 <p align="center" >
@@ -70,7 +70,7 @@ I enjoy working on:
 ### ⚙️ Tech Stack
 
 #### 🚀 Backend
-- **Python**, **Flask**, **django**
+- **Fastapi**, **node.js**, **express.js**
 - **PostgreSQL**, **MySQL**, **MongoDB**
 
 #### 🌐 Frontend
